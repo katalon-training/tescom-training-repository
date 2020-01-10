@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Github Account Test Data</source-url>
+   </source-info>
+   <taken-date>2020-01-09T16:52:02.416</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+      <column-name>address</column-name>
+      <column-name>postcode</column-name>
+      <column-name>firstname</column-name>
+      <column-name>lastname</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "1asd",
+      "checked": true
+    },
+    {
+      "value": "fafasf",
+      "checked": false
+    },
+    {
+      "value": "fafa",
+      "checked": false
+    },
+    {
+      "value": "fafas",
+      "checked": false
+    },
+    {
+      "value": "a",
+      "checked": false
+    },
+    {
+      "value": "asfas",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "fafsa",
+      "checked": false
+    },
+    {
+      "value": "341421",
+      "checked": false
+    },
+    {
+      "value": "fasfas",
+      "checked": false
+    },
+    {
+      "value": "fas",
+      "checked": false
+    },
+    {
+      "value": "fasfas",
+      "checked": false
+    },
+    {
+      "value": "fa",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "421421",
+      "checked": false
+    },
+    {
+      "value": "fsafasfa",
+      "checked": false
+    },
+    {
+      "value": "fasfas",
+      "checked": false
+    },
+    {
+      "value": "fasfa",
+      "checked": false
+    },
+    {
+      "value": "fasfas",
+      "checked": false
+    },
+    {
+      "value": "fasfas",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

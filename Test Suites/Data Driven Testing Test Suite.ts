@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Data Driven Testing Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>3</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>1c8adad4-606a-44c0-a26b-aad00f35f12d</testSuiteGuid>
+   <testCaseLink>
+      <guid>c95f5cd2-9dee-4ec3-b9a4-a382d6e9e1bb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Driven Testing/Test A</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9b2cea06-8c48-40f4-8ff6-388116202297</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Github Account Test Data</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>865b6b34-4025-4af2-90a2-375b04e3a409</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9b2cea06-8c48-40f4-8ff6-388116202297</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>46220618-3c10-4b53-ab90-74ade071d888</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b2cea06-8c48-40f4-8ff6-388116202297</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>7b09e1a2-6c47-4531-9a58-651c3579f9c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b2cea06-8c48-40f4-8ff6-388116202297</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>address</value>
+         <variableId>1bf7dc29-9bab-4ce2-a768-8dab3beaf548</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>865b6b34-4025-4af2-90a2-375b04e3a409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>country</value>
+         <variableId>3d5d7fcb-cb0c-47e0-ba8a-dd7ae70001f4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>865b6b34-4025-4af2-90a2-375b04e3a409</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>capital</value>
+         <variableId>f679e7f2-6ee1-42fe-8468-855654bf5bee</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ac18323-ed82-4aec-996f-a0ddd01dce7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Data Driven Testing/Test B</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>135889b6-f6eb-46df-8469-e645513b7154</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Data Driven Testing/Test C</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>
