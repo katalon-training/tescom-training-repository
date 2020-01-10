@@ -52,6 +52,7 @@ class VerifyKeywords {
 		try {
 			WebUI.verifyElementPresent(to, 0);
 			KeywordUtil.markPassed("Correct credentials")
+			println "Something changed";
 			return true;
 		} catch (StepFailedException e) {
 			return false;
